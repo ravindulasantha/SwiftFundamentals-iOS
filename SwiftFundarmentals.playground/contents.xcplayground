@@ -3,5 +3,6 @@
     <pages>
         <page name='Closures'/>
         <page name='Structures'/>
+        <page name='Branching If Switch'/>
     </pages>
 </playground>
